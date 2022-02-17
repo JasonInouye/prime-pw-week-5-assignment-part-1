@@ -55,3 +55,6 @@ console.log( `Updated show count:`, me.shoeCount );
   - Cool huh? It works, even though it wasn't there before
   - Console.log your object
 */
+
+me.favoriteColor = `Blue`;
+console.log( `My Favorite Color`, me.favoriteColor );
